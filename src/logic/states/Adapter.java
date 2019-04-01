@@ -1,7 +1,7 @@
 package logic.states;
 
 import java.io.Serializable;
-import logic.*;
+import logic.mundo.*;
 
 public class Adapter implements IEstados, Serializable {
     protected Mundo mundo;

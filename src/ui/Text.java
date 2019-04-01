@@ -1,6 +1,8 @@
 package ui;
 
-import logic.*;
+import logic.states.*;
+import logic.mundo.*;
+import logic.player.*;
 
 import java.io.*;
 import java.util.*;
